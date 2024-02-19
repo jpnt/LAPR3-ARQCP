@@ -1,0 +1,10 @@
+teste
+testeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+teste_strcpy
+1,1,type_whatever,celcius,7#
+1,1,type_whatever,celcius,7#
+1,1,type_whatever,celcius,7#
+1,1,type_whatever,celcius,7#
+1,1,type_whatever,celcius,7#
+1,1,type_whatever,celcius,7#
+1,1,type_whatever,celcius,7#
